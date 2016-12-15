@@ -1,6 +1,5 @@
 %syntax-version=1.0.0
 %project=calvad_db_county
-%uri=git@activimetrics.com/jmarca/calvad_db_county
+%uri=git@activimetrics.com/a/jmarca/calvad_db_county
 
-appschema 2016-02-02T20:56:11Z James E. Marca <james@activimetrics.com> # Add schema for geocoding work.
-counties_fips [appschema] 2016-02-02T23:23:13Z James E. Marca <james@activimetrics.com> # Add counties_fips table.
+county_fips [calvad_db_geocode_schema:geocode_schema] 2016-03-16T17:02:35Z James E. Marca <james@activimetrics.com> # county_fips table
