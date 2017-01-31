@@ -1,4 +1,4 @@
--- Verify hpms_geocode:fips_counties on pg
+-- Verify calvad_db_county:county_fips on pg
 
 BEGIN;
 

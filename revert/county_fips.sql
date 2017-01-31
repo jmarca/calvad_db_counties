@@ -1,4 +1,4 @@
--- Revert hpms_geocode:fips_counties from pg
+-- Revert calvad_db_county:county_fips from pg
 
 BEGIN;
 

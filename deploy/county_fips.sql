@@ -1,5 +1,5 @@
--- Deploy hpms_geocode:fips_counties to pg
--- requires: appschema
+-- Deploy calvad_db_county:county_fips to pg
+-- requires: calvad_db_geocode_schema:geocode_schema
 
 BEGIN;
 
